@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Expanding Cards</title>
+</head>
+
+<body>
+  <section>
+<div id="images">
+  <img src="images.jpg"/>
+  <img src="images (1).jpg"/>
+  <img src="Zugpsitze_mountain.jpg"/>
+  <img src="1700488940348.jpg"/>
+</div>
+</section>
+
+
+</body>
+</html>
